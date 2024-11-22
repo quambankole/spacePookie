@@ -1,0 +1,7 @@
+{
+    "spacemonsters":[
+        {"name":"Vilgaxx", "otherNames":["Blast Order Lader"], "shipDescription":" A fast, black with weak bullets ", "movements":"left and right", "shotsBeforeDeath":30},
+        {"name":"Elexion", "otherNames":["Commander 1"], "shipDescription":"Big and slow movement ship with multiple bullets at a time ", "movements":"left right down", "shotsBeforeDeath":50},
+        {"name":"Wereyomo", "otherNames":["Final Boss"], "shipDescription":"Biggest ship with fast movements with fast multiple bullets",  "movements":"left right down", "shotsBeforeDeath":70}
+    ]
+}
